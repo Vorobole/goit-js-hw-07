@@ -10,3 +10,6 @@
   background-color: black;
   color: white;
 }
+.gallery-item {
+  display: flex;
+}
